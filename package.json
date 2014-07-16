@@ -1,7 +1,9 @@
 {
   "name": "mod_newtab_clock",
-  "version": "0.2.0",
+  "version": "0.2.5",
   "main": "./index.js",
+  "keywords": ['breach-module'],
+  "author": "Robin Malfait <malfait.robin@gmail.com>",
   "dependencies": {
     "breach_module": "0.3.x",
     "async": "0.9.x",

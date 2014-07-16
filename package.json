@@ -10,6 +10,7 @@
     "method-override": "1.0.x",
     "request": "2.36.x",
     "mime": "^1.2.11",
-    "methods": "^1.1.0"
+    "methods": "^1.1.0",
+    "utils-merge": "^1.0.0"
   }
 }

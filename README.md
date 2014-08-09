@@ -12,7 +12,7 @@ This is a module for breach. It replaces the new tab page with a clock. The colo
  - In the input box type:
   
   ```
-  github:alphachung/mod_newtab_clockmod_newtab_clock_adwaita
+  github:alphachung/mod_newtab_clock_adwaita
   ```
   
 

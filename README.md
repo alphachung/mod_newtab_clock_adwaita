@@ -1,5 +1,6 @@
 #Adwaita-style New Tab Clock for breach
 
+![](http://f.cl.ly/items/1X0v1S0K2c2l212A2Z2s/Screenshot%20from%202014-08-09%2023%3A57%3A08.png)
 
 ## Introduction
 

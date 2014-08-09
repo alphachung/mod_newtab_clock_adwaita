@@ -1,19 +1,20 @@
-## This is a module for Breach.cc browser.
+#Adwaita-style New Tab Clock for breach
 
 
-### Preview
+## Introduction
 
-It looks like this:
-![](http://d.pr/i/azYW+)
+This is a module for breach. It replaces the new tab page with a clock. The color palette and typeface of the page is based on the Adwaita Dark GTK theme & GNOME Shell defaults to make it feel home to the GNOME 3 environment. 
 
-### Install
+## Install
 
  - Right Click in breach browser and click "Configure Modules"
  - In the input box type:
   
   ```
-  github:RobinMalfait/mod_newtab_clock
+  github:alphachung/mod_newtab_clockmod_newtab_clock_adwaita
   ```
   
 
-### Done, hope you enjoy this :)
+##Disclaimer
+
+This project is **NOT** related of affliated to the GNOME project. 
